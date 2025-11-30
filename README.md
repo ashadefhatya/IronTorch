@@ -7,9 +7,9 @@ modular code design and secure practices. Developed because AI generated this lo
 ## ✨ Features
 - Dynamic bars for **Guessing Difficulty**, **Uncommonness**, **Cracking Difficulty**, and **Overall Strength**.
 - Entropy calculation in bits, mapped to a 0–100 scale.
-- Randomized security quotes for each input.
+- Randomized quotes for each input.
 - Responsive design with custom CSS variables.
-- Educational focus: passwords are never stored or transmitted.
+- Strings/Passwords are never stored or transmitted.
 
 ## 📸 Screenshots
 ![Main UI](./screenshots/irontorch-main.png)

